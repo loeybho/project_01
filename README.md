@@ -1,4 +1,5 @@
 # Responsive Nav Bar UI Component
+# 반응형 디자인을 고려한 카테코리 바 UI 제작
 
 Responsive Nav Bar UI Component
 
